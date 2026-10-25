@@ -1,0 +1,44 @@
+{
+  "name": "moonshot lab",
+  "identifier": "dev.moonshot.sidestore",
+  "subtitle": "apps we build",
+  "description": "Private source for apps built on the moonshot box. Currently Scan3D.",
+  "iconURL": "https://git.somesh.dev/sms/sidestore/raw/branch/main/icon.png",
+  "headerURL": "https://git.somesh.dev/sms/sidestore/raw/branch/main/icon.png",
+  "website": "https://git.somesh.dev/sms/sidestore",
+  "tintColor": "#39D0FF",
+  "featuredApps": [
+    "app.moonshot.scan3d"
+  ],
+  "apps": [
+    {
+      "name": "Scan3D",
+      "bundleIdentifier": "app.moonshot.scan3d",
+      "developerName": "moonshot",
+      "subtitle": "LiDAR scan with real millimetre scale",
+      "localizedDescription": "Guided LiDAR capture. Press START, walk around the object, press EXPORT. Frames are auto-sampled only when the light is good, the motion is slow and the direction is new; the LiDAR measures the object in millimetres so no calipers are needed. Exports photos/, poses.json, cloud.ply and calipers.json (source: lidar).",
+      "iconURL": "https://git.somesh.dev/sms/sidestore/raw/branch/main/icon.png",
+      "tintColor": "#39D0FF",
+      "category": "utilities",
+      "size": 137351,
+      "versions": [
+        {
+          "version": "1.0",
+          "buildVersion": "202610252022",
+          "date": "2026-10-25T20:22:54Z",
+          "localizedDescription": "First build: guided coverage, live lighting checks, LiDAR scale.",
+          "downloadURL": "https://git.somesh.dev/sms/sidestore/raw/branch/main/Scan3D.ipa",
+          "size": 137351,
+          "minOSVersion": "17.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "Scan3D uses the camera and LiDAR to measure the object and build a 3D model with real-world millimetre scale."
+        }
+      }
+    }
+  ],
+  "news": []
+}
