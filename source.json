@@ -25,7 +25,7 @@
         {
           "version": "1.0",
           "buildVersion": "202610260505",
-          "date": "2026-10-26T05:05:43Z",
+          "date": "2026-10-26T05:05:56Z",
           "localizedDescription": "First build: guided coverage, live lighting checks, LiDAR scale.",
           "downloadURL": "https://git.somesh.dev/sms/sidestore/raw/branch/main/Scan3D.ipa",
           "size": 137359,
