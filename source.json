@@ -20,15 +20,15 @@
       "iconURL": "https://git.somesh.dev/sms/sidestore/raw/branch/main/icon.png",
       "tintColor": "#39D0FF",
       "category": "utilities",
-      "size": 137829,
+      "size": 137828,
       "versions": [
         {
-          "version": "1.0.202610260511",
-          "buildVersion": "202610260511",
-          "date": "2026-10-26T05:12:04Z",
+          "version": "1.0.202610260520",
+          "buildVersion": "202610260520",
+          "date": "2026-10-26T05:20:33Z",
           "localizedDescription": "First build: guided coverage, live lighting checks, LiDAR scale.",
-          "downloadURL": "https://git.somesh.dev/sms/sidestore/raw/branch/main/Scan3D.ipa",
-          "size": 137829,
+          "downloadURL": "https://git.somesh.dev/sms/sidestore/raw/branch/main/Scan3D-202610260520.ipa",
+          "size": 137828,
           "minOSVersion": "17.0"
         }
       ],
