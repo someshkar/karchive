@@ -44,6 +44,15 @@
     {
       "versions": [
         {
+          "version": "0.1.202610282224",
+          "buildVersion": "202610282224",
+          "date": "2026-10-28T22:25:05Z",
+          "localizedDescription": "The pane takes the phone's width while you look at it, so the agent lays out for the phone. Its history scrolls on the phone, smoothly, holds its place while new output arrives, and keeps the prompt pinned at the bottom.",
+          "downloadURL": "https://someshkar.github.io/karchive/950955e87ce8818d61e7c6826276745c/Vispr-202610282224.ipa",
+          "size": 4740824,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "0.1.202610281955",
           "buildVersion": "202610281955",
           "date": "2026-10-28T19:56:11Z",
@@ -88,10 +97,10 @@
       "iconURL": "https://someshkar.github.io/karchive/950955e87ce8818d61e7c6826276745c/vispr-icon.png",
       "tintColor": "#7C5CFF",
       "category": "developer",
-      "version": "0.1.202610281955",
-      "versionDate": "2026-10-28T19:56:11Z",
-      "downloadURL": "https://someshkar.github.io/karchive/950955e87ce8818d61e7c6826276745c/Vispr-202610281955.ipa",
-      "size": 4666907,
+      "version": "0.1.202610282224",
+      "versionDate": "2026-10-28T22:25:05Z",
+      "downloadURL": "https://someshkar.github.io/karchive/950955e87ce8818d61e7c6826276745c/Vispr-202610282224.ipa",
+      "size": 4740824,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
