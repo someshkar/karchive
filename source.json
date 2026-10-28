@@ -44,6 +44,15 @@
     {
       "versions": [
         {
+          "version": "0.1.202610281813",
+          "buildVersion": "202610281813",
+          "date": "2026-10-28T18:13:53Z",
+          "localizedDescription": "Same app; first build published through GitHub Pages",
+          "downloadURL": "https://someshkar.github.io/karchive/950955e87ce8818d61e7c6826276745c/Vispr-202610281813.ipa",
+          "size": 4589347,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "0.1.202610281717",
           "buildVersion": "202610281717",
           "date": "2026-10-28T17:18:03Z",
@@ -61,10 +70,10 @@
       "iconURL": "https://someshkar.github.io/karchive/950955e87ce8818d61e7c6826276745c/vispr-icon.png",
       "tintColor": "#7C5CFF",
       "category": "developer",
-      "version": "0.1.202610281717",
-      "versionDate": "2026-10-28T17:18:03Z",
-      "downloadURL": "https://someshkar.github.io/karchive/950955e87ce8818d61e7c6826276745c/Vispr-202610281717.ipa",
-      "size": 4589350,
+      "version": "0.1.202610281813",
+      "versionDate": "2026-10-28T18:13:53Z",
+      "downloadURL": "https://someshkar.github.io/karchive/950955e87ce8818d61e7c6826276745c/Vispr-202610281813.ipa",
+      "size": 4589347,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
