@@ -39,5 +39,5 @@ done
 git -C "$out" init -q -b gh-pages
 git -C "$out" add -A
 git -C "$out" -c user.name="$(git config user.name)" -c user.email="$(git config user.email)" commit -qm "site $(date -u +%Y-%m-%dT%H:%MZ)"
-git -C "$out" push -q -f "$(git remote get-url github)" gh-pages
+git -C "$out" push -q -f "$(git remote get-url origin)" gh-pages
 echo "published $SITE_URL/source.json"
