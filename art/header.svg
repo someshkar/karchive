@@ -10,6 +10,6 @@
     <rect x="402" y="430" width="220" height="34" rx="17" fill="#163E9E"/>
     <text x="512" y="760" text-anchor="middle" font-family="Adwaita Sans, Noto Sans" font-weight="900" font-size="300" fill="#FFFFFF">K</text>
   </g>
-  <text x="470" y="245" font-family="Adwaita Sans, Noto Sans" font-weight="800" font-size="128" fill="#FFFFFF">Karchive</text>
-  <text x="474" y="318" font-family="Adwaita Sans, Noto Sans" font-weight="500" font-size="44" fill="#9AA3B2">Somesh Kar's experiments, as apps you can install</text>
+  <text x="470" y="245" font-family="Adwaita Sans, Noto Sans" font-weight="800" font-size="110" fill="#FFFFFF">SK's experiments</text>
+  <text x="474" y="318" font-family="Adwaita Sans, Noto Sans" font-weight="500" font-size="44" fill="#9AA3B2">Karchive · apps from what Somesh Kar is building</text>
 </svg>
