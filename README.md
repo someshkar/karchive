@@ -2,10 +2,16 @@
 
 ![Karchive](store-header.png)
 
-A SideStore / LiveContainer source for Somesh Kar's experiments that come with iOS apps.
+A SideStore / LiveContainer source for my experiments that come with iOS apps.
 
-Source: `https://git.somesh.dev/sms/karchive/raw/branch/main/source.json`
+This repo is private. The source is served by GitHub Pages from an unlisted
+path, set in `site.env`; anyone with that URL can fetch the source and its IPAs,
+nobody without it can find them.
 
-LiveContainer 3.7+: `livecontainer://sources?url=https%3A%2F%2Fgit.somesh.dev%2Fsms%2Fkarchive%2Fraw%2Fbranch%2Fmain%2Fsource.json`
+- `source.json`: the source. Every download URL points under `SITE_URL`.
+- `ipas/`: the IPAs, kept out of git. Each one is also attached to a private
+  release, which `publish-site.sh` falls back to.
+- `publish-site.sh`: builds the site and force-pushes it to `gh-pages` as one
+  commit.
 
-Apps are built unsigned and signed on the device. IPAs are attached to releases; `source.json` lists the newest builds. Vispr publishes here with `apps/vispr-ios/publish-sidestore.sh` in the vispr repo.
+Vispr publishes here with `apps/vispr-ios/publish-sidestore.sh` in the vispr repo.
