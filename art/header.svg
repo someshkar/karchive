@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="500" viewBox="0 0 1500 500">
+  <defs>
+    <linearGradient id="asphalt" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1B1E25"/><stop offset="1" stop-color="#0E1014"/>
+    </linearGradient>
+    <linearGradient id="sign" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#3B7BFF"/><stop offset="1" stop-color="#1F56E0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1500" height="500" fill="url(#asphalt)"/>
+  <g stroke="#F5C542" stroke-width="10" stroke-linecap="round" opacity="0.85">
+    <line x1="80" y1="400" x2="80" y2="500"/><line x1="320" y1="400" x2="320" y2="500"/>
+    <line x1="560" y1="400" x2="560" y2="500"/><line x1="800" y1="400" x2="800" y2="500"/>
+    <line x1="1040" y1="400" x2="1040" y2="500"/><line x1="1280" y1="400" x2="1280" y2="500"/>
+  </g>
+  <rect x="110" y="90" width="260" height="260" rx="44" fill="url(#sign)"/>
+  <rect x="123" y="103" width="234" height="234" rx="33" fill="none" stroke="#FFFFFF" stroke-width="10"/>
+  <text x="240" y="292" text-anchor="middle" font-family="Adwaita Sans, Noto Sans" font-weight="900" font-size="196" fill="#FFFFFF">K</text>
+  <text x="430" y="230" font-family="Adwaita Sans, Noto Sans" font-weight="800" font-size="128" fill="#FFFFFF">Kar Park</text>
+  <text x="434" y="305" font-family="Adwaita Sans, Noto Sans" font-weight="500" font-size="44" fill="#9AA3B2">Somesh Kar's experiments, parked on your phone</text>
+</svg>
