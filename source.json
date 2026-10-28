@@ -44,6 +44,15 @@
     {
       "versions": [
         {
+          "version": "0.1.202610281955",
+          "buildVersion": "202610281955",
+          "date": "2026-10-28T19:56:11Z",
+          "localizedDescription": "Tapping an agent on another Herdr machine brings it forward",
+          "downloadURL": "https://someshkar.github.io/karchive/950955e87ce8818d61e7c6826276745c/Vispr-202610281955.ipa",
+          "size": 4666907,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "0.1.202610281942",
           "buildVersion": "202610281942",
           "date": "2026-10-28T19:42:31Z",
@@ -79,10 +88,10 @@
       "iconURL": "https://someshkar.github.io/karchive/950955e87ce8818d61e7c6826276745c/vispr-icon.png",
       "tintColor": "#7C5CFF",
       "category": "developer",
-      "version": "0.1.202610281942",
-      "versionDate": "2026-10-28T19:42:31Z",
-      "downloadURL": "https://someshkar.github.io/karchive/950955e87ce8818d61e7c6826276745c/Vispr-202610281942.ipa",
-      "size": 4667290,
+      "version": "0.1.202610281955",
+      "versionDate": "2026-10-28T19:56:11Z",
+      "downloadURL": "https://someshkar.github.io/karchive/950955e87ce8818d61e7c6826276745c/Vispr-202610281955.ipa",
+      "size": 4666907,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
