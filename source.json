@@ -1,10 +1,10 @@
 {
-  "name": "Kar Park",
-  "identifier": "dev.somesh.karpark",
-  "subtitle": "Somesh Kar's experiments, parked on your phone",
+  "name": "Karchive",
+  "identifier": "dev.somesh.karchive",
+  "subtitle": "Somesh Kar's experiments, as apps you can install",
   "description": "Apps from Somesh Kar's experiments: systems, voice, agents and whatever else needed an iPhone or iPad to try out. Built on his own machines, unsigned; SideStore or LiveContainer signs them on your device. Expect rough edges, and new builds often.",
-  "iconURL": "https://git.somesh.dev/sms/karpark/raw/branch/main/store-icon.png",
-  "headerURL": "https://git.somesh.dev/sms/karpark/raw/branch/main/store-header.png",
+  "iconURL": "https://git.somesh.dev/sms/karchive/raw/branch/main/store-icon.png",
+  "headerURL": "https://git.somesh.dev/sms/karchive/raw/branch/main/store-header.png",
   "website": "https://someshkar.com",
   "tintColor": "#2F6BFF",
   "featuredApps": [
@@ -18,7 +18,7 @@
       "developerName": "Somesh Kar",
       "subtitle": "LiDAR scan with real millimetre scale",
       "localizedDescription": "Guided LiDAR capture. Press START, walk around the object, press EXPORT. Frames are auto-sampled only when the light is good, the motion is slow and the direction is new; the LiDAR measures the object in millimetres so no calipers are needed. Exports photos/, poses.json, cloud.ply and calipers.json (source: lidar).",
-      "iconURL": "https://git.somesh.dev/sms/karpark/raw/branch/main/icon.png",
+      "iconURL": "https://git.somesh.dev/sms/karchive/raw/branch/main/icon.png",
       "tintColor": "#39D0FF",
       "category": "utilities",
       "size": 137828,
@@ -28,7 +28,7 @@
           "buildVersion": "202610260520",
           "date": "2026-10-26T05:20:33Z",
           "localizedDescription": "First build: guided coverage, live lighting checks, LiDAR scale.",
-          "downloadURL": "https://git.somesh.dev/sms/karpark/raw/branch/main/Scan3D-202610260520.ipa",
+          "downloadURL": "https://git.somesh.dev/sms/karchive/raw/branch/main/Scan3D-202610260520.ipa",
           "size": 137828,
           "minOSVersion": "17.0"
         }
@@ -47,7 +47,7 @@
           "buildVersion": "202610281717",
           "date": "2026-10-28T17:18:03Z",
           "localizedDescription": "iPad layout: sidebar of agents and a grid of pinned agents",
-          "downloadURL": "https://git.somesh.dev/sms/karpark/releases/download/vispr-0.1.202610281717/Vispr.ipa",
+          "downloadURL": "https://git.somesh.dev/sms/karchive/releases/download/vispr-0.1.202610281717/Vispr.ipa",
           "size": 4589350,
           "minOSVersion": "26.0"
         }
@@ -57,12 +57,12 @@
       "developerName": "Somesh Kar",
       "subtitle": "Watch and talk to your agents",
       "localizedDescription": "Connects to your computer by SSH, over Tailscale or your home network, to watch your Herdr agents, read their terminals and hold Talk to speak to them. On iPad, agents sit in a sidebar and can be pinned to a grid.",
-      "iconURL": "https://git.somesh.dev/sms/karpark/raw/branch/main/vispr-icon.png",
+      "iconURL": "https://git.somesh.dev/sms/karchive/raw/branch/main/vispr-icon.png",
       "tintColor": "#7C5CFF",
       "category": "developer",
       "version": "0.1.202610281717",
       "versionDate": "2026-10-28T17:18:03Z",
-      "downloadURL": "https://git.somesh.dev/sms/karpark/releases/download/vispr-0.1.202610281717/Vispr.ipa",
+      "downloadURL": "https://git.somesh.dev/sms/karchive/releases/download/vispr-0.1.202610281717/Vispr.ipa",
       "size": 4589350,
       "appPermissions": {
         "entitlements": [],
