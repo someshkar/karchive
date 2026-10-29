@@ -44,6 +44,15 @@
     {
       "versions": [
         {
+          "version": "0.1.202610290650",
+          "buildVersion": "202610290650",
+          "date": "2026-10-29T06:51:09Z",
+          "localizedDescription": "Claude Code scrolls on the phone: the whole conversation is read at phone width and scrolls natively, with its prompt pinned and no more haptic ticks",
+          "downloadURL": "https://someshkar.github.io/karchive/950955e87ce8818d61e7c6826276745c/Vispr-202610290650.ipa",
+          "size": 4756328,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "0.1.202610282224",
           "buildVersion": "202610282224",
           "date": "2026-10-28T22:25:05Z",
@@ -78,15 +87,6 @@
           "downloadURL": "https://someshkar.github.io/karchive/950955e87ce8818d61e7c6826276745c/Vispr-202610281813.ipa",
           "size": 4589347,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "0.1.202610281717",
-          "buildVersion": "202610281717",
-          "date": "2026-10-28T17:18:03Z",
-          "localizedDescription": "iPad layout: sidebar of agents and a grid of pinned agents",
-          "downloadURL": "https://someshkar.github.io/karchive/950955e87ce8818d61e7c6826276745c/Vispr-202610281717.ipa",
-          "size": 4589350,
-          "minOSVersion": "26.0"
         }
       ],
       "name": "Vispr",
@@ -97,10 +97,10 @@
       "iconURL": "https://someshkar.github.io/karchive/950955e87ce8818d61e7c6826276745c/vispr-icon.png",
       "tintColor": "#7C5CFF",
       "category": "developer",
-      "version": "0.1.202610282224",
-      "versionDate": "2026-10-28T22:25:05Z",
-      "downloadURL": "https://someshkar.github.io/karchive/950955e87ce8818d61e7c6826276745c/Vispr-202610282224.ipa",
-      "size": 4740824,
+      "version": "0.1.202610290650",
+      "versionDate": "2026-10-29T06:51:09Z",
+      "downloadURL": "https://someshkar.github.io/karchive/950955e87ce8818d61e7c6826276745c/Vispr-202610290650.ipa",
+      "size": 4756328,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
