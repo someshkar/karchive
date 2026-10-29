@@ -44,6 +44,15 @@
     {
       "versions": [
         {
+          "version": "0.1.202610290701",
+          "buildVersion": "202610290701",
+          "date": "2026-10-29T07:02:25Z",
+          "localizedDescription": "Stops the computer's screen scrolling on its own while Claude Code is open on the phone",
+          "downloadURL": "https://someshkar.github.io/karchive/950955e87ce8818d61e7c6826276745c/Vispr-202610290701.ipa",
+          "size": 4746993,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "0.1.202610290650",
           "buildVersion": "202610290650",
           "date": "2026-10-29T06:51:09Z",
@@ -78,15 +87,6 @@
           "downloadURL": "https://someshkar.github.io/karchive/950955e87ce8818d61e7c6826276745c/Vispr-202610281942.ipa",
           "size": 4667290,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "0.1.202610281813",
-          "buildVersion": "202610281813",
-          "date": "2026-10-28T18:13:53Z",
-          "localizedDescription": "Same app; first build published through GitHub Pages",
-          "downloadURL": "https://someshkar.github.io/karchive/950955e87ce8818d61e7c6826276745c/Vispr-202610281813.ipa",
-          "size": 4589347,
-          "minOSVersion": "26.0"
         }
       ],
       "name": "Vispr",
@@ -97,10 +97,10 @@
       "iconURL": "https://someshkar.github.io/karchive/950955e87ce8818d61e7c6826276745c/vispr-icon.png",
       "tintColor": "#7C5CFF",
       "category": "developer",
-      "version": "0.1.202610290650",
-      "versionDate": "2026-10-29T06:51:09Z",
-      "downloadURL": "https://someshkar.github.io/karchive/950955e87ce8818d61e7c6826276745c/Vispr-202610290650.ipa",
-      "size": 4756328,
+      "version": "0.1.202610290701",
+      "versionDate": "2026-10-29T07:02:25Z",
+      "downloadURL": "https://someshkar.github.io/karchive/950955e87ce8818d61e7c6826276745c/Vispr-202610290701.ipa",
+      "size": 4746993,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
