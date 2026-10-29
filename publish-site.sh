@@ -17,7 +17,7 @@ trap 'rm -rf "$out"' EXIT
 dir="$out/${SITE_URL##*/}"
 mkdir -p "$dir" ipas
 touch "$out/.nojekyll"
-cp source.json index.html store-icon.png store-header.png icon.png vispr-icon.png "$dir/"
+cp source.json index.html store-icon.png store-header.png icon.png vispr-icon.png scan3d-icon.png "$dir/"
 
 for file in $(python3 -c "
 import json, sys

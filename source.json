@@ -16,13 +16,22 @@
       "name": "Scan3D",
       "bundleIdentifier": "app.moonshot.scan3d",
       "developerName": "Somesh Kar",
-      "subtitle": "LiDAR scan with real millimetre scale",
-      "localizedDescription": "Guided LiDAR capture. Press START, walk around the object, press EXPORT. Frames are auto-sampled only when the light is good, the motion is slow and the direction is new; the LiDAR measures the object in millimetres so no calipers are needed. Exports photos/, poses.json, cloud.ply and calipers.json (source: lidar).",
-      "iconURL": "https://someshkar.github.io/karchive/950955e87ce8818d61e7c6826276745c/icon.png",
+      "subtitle": "Scan objects to print them at true size",
+      "localizedDescription": "Two capture modes. Orbit: move around the object like you're filming and the app keeps a sharp 4K frame from every new angle, with its camera position and LiDAR depth, guided by a coverage map across three heights, then flip for the underside — made for Gaussian splat reconstruction. Object Capture: Apple's guided photo capture for photogrammetry on a Mac. Scans are in the Files app, ready to AirDrop.",
+      "iconURL": "https://someshkar.github.io/karchive/950955e87ce8818d61e7c6826276745c/scan3d-icon.png",
       "tintColor": "#39D0FF",
       "category": "utilities",
-      "size": 137828,
+      "size": 311350,
       "versions": [
+        {
+          "version": "3.0.202610290756",
+          "buildVersion": "202610290756",
+          "date": "2026-10-29T07:57:07Z",
+          "localizedDescription": "Orbit capture: move around the object like you're filming; 150+ sharp 4K frames per side with camera positions and LiDAR depth, a coverage map over three heights, then flip for the underside. Built for Gaussian splat scans.",
+          "downloadURL": "https://someshkar.github.io/karchive/950955e87ce8818d61e7c6826276745c/Scan3D-202610290756.ipa",
+          "size": 311350,
+          "minOSVersion": "17.0"
+        },
         {
           "version": "1.0.202610260520",
           "buildVersion": "202610260520",
@@ -39,7 +48,9 @@
           "NSCameraUsageDescription": "Scan3D uses the camera and LiDAR to measure the object and build a 3D model with real-world millimetre scale."
         }
       },
-      "downloadURL": "https://someshkar.github.io/karchive/950955e87ce8818d61e7c6826276745c/Scan3D-202610260520.ipa"
+      "downloadURL": "https://someshkar.github.io/karchive/950955e87ce8818d61e7c6826276745c/Scan3D-202610290756.ipa",
+      "version": "3.0.202610290756",
+      "versionDate": "2026-10-29T07:57:07Z"
     },
     {
       "versions": [
