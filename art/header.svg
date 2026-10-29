@@ -1,15 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="500" viewBox="0 0 1500 500">
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1B1E25"/><stop offset="1" stop-color="#0E1014"/></linearGradient>
-    <linearGradient id="box" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#3B7BFF"/><stop offset="1" stop-color="#1F56E0"/></linearGradient>
-  </defs>
-  <rect width="1500" height="500" fill="url(#bg)"/>
-  <g transform="translate(90,70) scale(0.35)">
-    <rect x="152" y="212" width="720" height="150" rx="40" fill="#5B93FF"/>
-    <rect x="196" y="388" width="632" height="440" rx="56" fill="url(#box)"/>
-    <rect x="402" y="430" width="220" height="34" rx="17" fill="#163E9E"/>
-    <text x="512" y="760" text-anchor="middle" font-family="Adwaita Sans, Noto Sans" font-weight="900" font-size="300" fill="#FFFFFF">K</text>
-  </g>
-  <text x="470" y="245" font-family="Adwaita Sans, Noto Sans" font-weight="800" font-size="110" fill="#FFFFFF">SK's experiments</text>
-  <text x="474" y="318" font-family="Adwaita Sans, Noto Sans" font-weight="500" font-size="44" fill="#9AA3B2">Karchive · apps from what Somesh Kar is building</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="500" viewBox="0 0 1500 500"><defs><linearGradient id="bg" x1="0" x2="0" y1="0" y2="1"><stop offset="0" stop-color="#1B1E25"/><stop offset="1" stop-color="#0E1014"/></linearGradient><linearGradient id="box" x1="0" x2="0" y1="0" y2="1"><stop offset="0" stop-color="#3B7BFF"/><stop offset="1" stop-color="#1F56E0"/></linearGradient></defs><rect width="1500" height="500" fill="url(#bg)"/><g transform="translate(90,70) scale(0.35)"><rect width="720" height="150" x="152" y="212" fill="#5B93FF" rx="40"/><rect width="632" height="440" x="196" y="388" fill="url(#box)" rx="56"/><rect width="220" height="34" x="402" y="430" fill="#163E9E" rx="17"/><text x="512" y="760" fill="#FFF" font-family="Adwaita Sans, Noto Sans" font-size="300" font-weight="900" text-anchor="middle">K</text></g><text x="470" y="245" fill="#FFF" font-family="Adwaita Sans, Noto Sans" font-size="110" font-weight="800">SK&apos;s experiments</text><text x="474" y="318" fill="#9AA3B2" font-family="Adwaita Sans, Noto Sans" font-size="44" font-weight="500">Karchive · apps from what Somesh Kar is building</text></svg>
