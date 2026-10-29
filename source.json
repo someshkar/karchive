@@ -55,6 +55,15 @@
     {
       "versions": [
         {
+          "version": "0.1.202610290800",
+          "buildVersion": "202610290800",
+          "date": "2026-10-29T08:00:55Z",
+          "localizedDescription": "Claude Code on the phone is now a conversation you scroll like Messages, read from Claude Code's log; nothing is sent to it, so the computer's screen stays put",
+          "downloadURL": "https://someshkar.github.io/karchive/950955e87ce8818d61e7c6826276745c/Vispr-202610290800.ipa",
+          "size": 4813236,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "0.1.202610290701",
           "buildVersion": "202610290701",
           "date": "2026-10-29T07:02:25Z",
@@ -89,15 +98,6 @@
           "downloadURL": "https://someshkar.github.io/karchive/950955e87ce8818d61e7c6826276745c/Vispr-202610281955.ipa",
           "size": 4666907,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "0.1.202610281942",
-          "buildVersion": "202610281942",
-          "date": "2026-10-28T19:42:31Z",
-          "localizedDescription": "Pair with your computer by scanning the code from vispr-server pair; connects over Wi-Fi or Tailscale, whichever answers",
-          "downloadURL": "https://someshkar.github.io/karchive/950955e87ce8818d61e7c6826276745c/Vispr-202610281942.ipa",
-          "size": 4667290,
-          "minOSVersion": "26.0"
         }
       ],
       "name": "Vispr",
@@ -108,10 +108,10 @@
       "iconURL": "https://someshkar.github.io/karchive/950955e87ce8818d61e7c6826276745c/vispr-icon.png",
       "tintColor": "#7C5CFF",
       "category": "developer",
-      "version": "0.1.202610290701",
-      "versionDate": "2026-10-29T07:02:25Z",
-      "downloadURL": "https://someshkar.github.io/karchive/950955e87ce8818d61e7c6826276745c/Vispr-202610290701.ipa",
-      "size": 4746993,
+      "version": "0.1.202610290800",
+      "versionDate": "2026-10-29T08:00:55Z",
+      "downloadURL": "https://someshkar.github.io/karchive/950955e87ce8818d61e7c6826276745c/Vispr-202610290800.ipa",
+      "size": 4813236,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
