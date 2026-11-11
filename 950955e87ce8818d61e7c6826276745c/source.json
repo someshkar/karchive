@@ -1,0 +1,137 @@
+{
+  "name": "Karchive",
+  "identifier": "dev.somesh.karchive",
+  "subtitle": "Somesh Kar's experiments, as apps you can install",
+  "description": "Apps from Somesh Kar's experiments: systems, voice, agents and whatever else needed an iPhone or iPad to try out. Built on his own machines, unsigned; SideStore or LiveContainer signs them on your device. Expect rough edges, and new builds often.",
+  "iconURL": "https://someshkar.github.io/karchive/950955e87ce8818d61e7c6826276745c/store-icon.png",
+  "headerURL": "https://someshkar.github.io/karchive/950955e87ce8818d61e7c6826276745c/store-header.png",
+  "website": "https://someshkar.com",
+  "tintColor": "#2F6BFF",
+  "featuredApps": [
+    "dev.vispr.ios",
+    "app.moonshot.scan3d"
+  ],
+  "apps": [
+    {
+      "name": "Scan3D",
+      "bundleIdentifier": "app.moonshot.scan3d",
+      "developerName": "Somesh Kar",
+      "subtitle": "Scan objects to print them at true size",
+      "localizedDescription": "Two capture modes. Orbit: move around the object like you're filming and the app keeps a sharp 4K frame from every new angle, with its camera position and LiDAR depth, guided by a coverage map across three heights, then flip for the underside \u2014 made for Gaussian splat reconstruction. Object Capture: Apple's guided photo capture for photogrammetry on a Mac. Scans are in the Files app, ready to AirDrop.",
+      "iconURL": "https://someshkar.github.io/karchive/950955e87ce8818d61e7c6826276745c/scan3d-icon.png",
+      "tintColor": "#39D0FF",
+      "category": "utilities",
+      "size": 311350,
+      "versions": [
+        {
+          "version": "3.1.202611111326",
+          "buildVersion": "202611111326",
+          "date": "2026-11-11T07:56:49Z",
+          "localizedDescription": "Component mode: six named views of one part for the build record, with a shutter that refuses a tilted, mis-framed or ruler-less frame. Orbit and Object Capture unchanged.",
+          "downloadURL": "https://someshkar.github.io/karchive/950955e87ce8818d61e7c6826276745c/Scan3D-202611111326.ipa",
+          "size": 436623,
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "3.0.202610290756",
+          "buildVersion": "202610290756",
+          "date": "2026-10-29T07:57:07Z",
+          "localizedDescription": "Orbit capture: move around the object like you're filming; 150+ sharp 4K frames per side with camera positions and LiDAR depth, a coverage map over three heights, then flip for the underside. Built for Gaussian splat scans.",
+          "downloadURL": "https://someshkar.github.io/karchive/950955e87ce8818d61e7c6826276745c/Scan3D-202610290756.ipa",
+          "size": 311350,
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "1.0.202610260520",
+          "buildVersion": "202610260520",
+          "date": "2026-10-26T05:20:33Z",
+          "localizedDescription": "First build: guided coverage, live lighting checks, LiDAR scale.",
+          "downloadURL": "https://someshkar.github.io/karchive/950955e87ce8818d61e7c6826276745c/Scan3D-202610260520.ipa",
+          "size": 137828,
+          "minOSVersion": "17.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "Scan3D uses the camera and LiDAR to measure the object and build a 3D model with real-world millimetre scale."
+        }
+      },
+      "downloadURL": "https://someshkar.github.io/karchive/950955e87ce8818d61e7c6826276745c/Scan3D-202610290756.ipa",
+      "version": "3.0.202610290756",
+      "versionDate": "2026-10-29T07:57:07Z"
+    },
+    {
+      "versions": [
+        {
+          "version": "0.1.202610290934",
+          "buildVersion": "202610290934",
+          "date": "2026-10-29T09:35:30Z",
+          "localizedDescription": "Opens on the machine you left it on; compact board with only your workspace open; smoother hold to talk, slide-to-cancel and live transcript.",
+          "downloadURL": "https://someshkar.github.io/karchive/950955e87ce8818d61e7c6826276745c/Vispr-202610290934.ipa",
+          "size": 6195181,
+          "minOSVersion": "26.0"
+        },
+        {
+          "version": "0.1.202610290859",
+          "buildVersion": "202610290859",
+          "date": "2026-10-29T09:00:59Z",
+          "localizedDescription": "Panes play in a real terminal on the phone, as they look on the computer; drag to scroll",
+          "downloadURL": "https://someshkar.github.io/karchive/950955e87ce8818d61e7c6826276745c/Vispr-202610290859.ipa",
+          "size": 6142682,
+          "minOSVersion": "26.0"
+        },
+        {
+          "version": "0.1.202610290800",
+          "buildVersion": "202610290800",
+          "date": "2026-10-29T08:00:55Z",
+          "localizedDescription": "Claude Code on the phone is now a conversation you scroll like Messages, read from Claude Code's log; nothing is sent to it, so the computer's screen stays put",
+          "downloadURL": "https://someshkar.github.io/karchive/950955e87ce8818d61e7c6826276745c/Vispr-202610290800.ipa",
+          "size": 4813236,
+          "minOSVersion": "26.0"
+        },
+        {
+          "version": "0.1.202610290701",
+          "buildVersion": "202610290701",
+          "date": "2026-10-29T07:02:25Z",
+          "localizedDescription": "Stops the computer's screen scrolling on its own while Claude Code is open on the phone",
+          "downloadURL": "https://someshkar.github.io/karchive/950955e87ce8818d61e7c6826276745c/Vispr-202610290701.ipa",
+          "size": 4746993,
+          "minOSVersion": "26.0"
+        },
+        {
+          "version": "0.1.202610290650",
+          "buildVersion": "202610290650",
+          "date": "2026-10-29T06:51:09Z",
+          "localizedDescription": "Claude Code scrolls on the phone: the whole conversation is read at phone width and scrolls natively, with its prompt pinned and no more haptic ticks",
+          "downloadURL": "https://someshkar.github.io/karchive/950955e87ce8818d61e7c6826276745c/Vispr-202610290650.ipa",
+          "size": 4756328,
+          "minOSVersion": "26.0"
+        }
+      ],
+      "name": "Vispr",
+      "bundleIdentifier": "dev.vispr.ios",
+      "developerName": "Somesh Kar",
+      "subtitle": "Watch and talk to your agents",
+      "localizedDescription": "Connects to your computer by SSH, over Tailscale or your home network, to watch your Herdr agents, read their terminals and hold Talk to speak to them. On iPad, agents sit in a sidebar and can be pinned to a grid.",
+      "iconURL": "https://someshkar.github.io/karchive/950955e87ce8818d61e7c6826276745c/vispr-icon.png",
+      "tintColor": "#7C5CFF",
+      "category": "developer",
+      "version": "0.1.202610290934",
+      "versionDate": "2026-10-29T09:35:30Z",
+      "downloadURL": "https://someshkar.github.io/karchive/950955e87ce8818d61e7c6826276745c/Vispr-202610290934.ipa",
+      "size": 6195181,
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSMicrophoneUsageDescription": "Vispr listens while you hold Talk, to type what you say into your agent.",
+          "NSSpeechRecognitionUsageDescription": "When your computer's speech server isn't reachable, Vispr can turn speech into text on this device.",
+          "NSLocalNetworkUsageDescription": "Vispr connects to your computer over your home network by SSH.",
+          "NSFaceIDUsageDescription": "Vispr can ask for Face ID before it uses your SSH key.",
+          "NSCameraUsageDescription": "Vispr scans the pairing code your computer shows, to find it and let this device in."
+        }
+      }
+    }
+  ],
+  "news": []
+}
